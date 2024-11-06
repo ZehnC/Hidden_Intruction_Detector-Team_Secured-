@@ -1,0 +1,34 @@
+Address:8000258c   Instruction:00000013   Result:nop
+Address:80002590   Instruction:13590234   Result:this is a test
+Address:80002594   Instruction:00000013   Result:nop
+Address:800025a4   Instruction:00000013   Result:nop
+Address:800025a8   Instruction:00178793   Result:addi    a5, a5, 1
+Address:800025b4   Instruction:00000013   Result:nop
+Address:800025b8   Instruction:00000013   Result:nop
+Address:800025bc   Instruction:00000013   Result:nop
+Address:800025c0   Instruction:00000013   Result:nop
+Address:800025c4   Instruction:00000013   Result:nop
+Address:800025c8   Instruction:00000013   Result:nop
+Address:800025cc   Instruction:00000013   Result:nop
+Address:800025d0   Instruction:00000013   Result:nop
+Address:800025d8   Instruction:00000013   Result:nop
+Address:800025dc   Instruction:00000013   Result:nop
+Address:800025e0   Instruction:00000013   Result:nop
+Address:800025e4   Instruction:00000013   Result:nop
+Address:800025e8   Instruction:00000013   Result:nop
+Address:800025ec   Instruction:00000013   Result:nop
+Address:800025f0   Instruction:00000013   Result:nop
+Address:800025f4   Instruction:00000013   Result:nop
+Address:800025f8   Instruction:00000013   Result:nop
+Address:800025fc   Instruction:00000013   Result:nop
+Address:80002600   Instruction:00000013   Result:nop
+Address:80002604   Instruction:00000013   Result:nop
+Address:80002608   Instruction:00000013   Result:nop
+Address:8000260c   Instruction:00000013   Result:nop
+Address:80002610   Instruction:00000013   Result:nop
+Address:80002614   Instruction:00000013   Result:nop
+Address:80002618   Instruction:00000013   Result:nop
+Address:8000261c   Instruction:00000013   Result:nop
+Address:80002620   Instruction:00000013   Result:nop
+Address:80002624   Instruction:00000013   Result:nop
+Address:80002628   Instruction:00000013   Result:nop
